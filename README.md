@@ -1,8 +1,8 @@
-## React Pokemon List
+# React Pokemon List
 
 Uma lista de Pokemons utlizando React consumindo a [API de Pokemons](http://pokeapi.co/). Baseado no [Desafio React Intelie](https://gist.github.com/jlbfalcao/75359180459fe1936dea13cea571e8d0)
 
-### Instalação
+## Instalação
 
 Clone o projeto:
 
@@ -16,24 +16,24 @@ Faça o build do projeto
 
 `npm run build`
 
-### Visualisando o projeto
+## Visualisando o projeto
 
 Na pasta `dist` abra o arquivo `index.html`
 
-### Dependências
+## Dependências
 
 - react
 - react-dom
 - sync-request
 
-### Dev Dependências
+## Dev Dependências
 
 - babel-core
 - babel-loader
-- abel-preset-es2015
+- babel-preset-es2015
 - babel-preset-react
 - webpack
 
-### Licença
+## Licença
 
 MIT
