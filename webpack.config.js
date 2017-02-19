@@ -1,7 +1,7 @@
 const path = require('path')
 
 const inputDirName = 'app'
-const outputDirName = 'dist'
+const outputDirName = 'dist/js'
 const entryFilename = 'index.js'
 
 module.exports = {
